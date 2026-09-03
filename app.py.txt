@@ -1,0 +1,4 @@
+print("Name: Geehan Altayb")
+print("Major: Computer Science")
+print("Technology Interest: Game Development")
+print("Senior Project Skill Goal: Improve my software development skills")
